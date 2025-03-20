@@ -1,5 +1,3 @@
-#!/usr/bin/env python3.9
-
 print("addition and subtraction work like you expect")
 print("2 + 2 is")
 print(2 + 2)

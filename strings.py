@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.9
 
 # This will evaluate to an empty string with single quotes.
 print("")
