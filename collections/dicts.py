@@ -11,6 +11,6 @@ del ages['bart']
 ages.pop('nutmeg')
 print(ages)
 
-#keys() and values() get you those like you'd expect
+#keys() and values() get you those like you'd expect, you get a list of the keys or values
 print(ages.keys())
 print(ages.values())
